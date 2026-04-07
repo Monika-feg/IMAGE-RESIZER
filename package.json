@@ -1,0 +1,19 @@
+{
+  "name": "image-resizer",
+  "productName": "Image Resizer",
+  "version": "1.0.0",
+  "description": "App to resize image dimentions",
+  "license": "MIT",
+  "author": "Monika",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+    
+  },
+  "dependencies": {
+    "electron": "^41.1.1",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
